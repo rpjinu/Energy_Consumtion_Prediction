@@ -1,5 +1,6 @@
 # Energy_Consumtion_Prediction
-ALL python jupyter notebook
+
+"A machine learning project to predict energy consumption of household appliances, enabling smarter and efficient energy usage."
 
 <img src="https://github.com/rpjinu/Energy_Consumtion_Prediction/blob/main/project_image.png" width=800>
 
